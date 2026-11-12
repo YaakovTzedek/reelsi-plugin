@@ -1,0 +1,21 @@
+{
+  "name": "reelsi",
+  "displayName": "Reelsi",
+  "version": "1.0.0",
+  "description": "Connect Reelsi and let your agent create reels from a video URL, long content, a graphic, or a website, then poll status and request revisions.",
+  "author": {
+    "name": "Tzedek Media Ltd.",
+    "email": "office@tzedek.me"
+  },
+  "homepage": "https://reelsi.ai",
+  "repository": "https://github.com/YaakovTzedek/reelsi-plugin",
+  "license": "MIT",
+  "keywords": [
+    "reelsi",
+    "reels",
+    "video",
+    "mcp",
+    "short-form"
+  ],
+  "logo": "assets/logo.png"
+}
